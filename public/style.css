@@ -1,3 +1,19 @@
 .bg-img {
 	background-image: url(https://cdn.arabhardware.net/wp-content/uploads/2020/11/GfinEMFXnT42BFxAcDc2rA.jpg);
 }
+
+  .from-primary {
+            --tw-gradient-from: #1d99ac;
+            --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 211, 238, 0));
+        }
+
+        .to-secondary {
+            --tw-gradient-to: #309e76;
+        }
+
+.servicesImageHeight {
+	height: 220px;
+}
+
+
+
